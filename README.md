@@ -80,4 +80,5 @@ streamlit run app.py
 MSc (IT) | Certified Data Scientist | Streamlit Developer  
 📍 Jalandhar, Punjab  
 💼 [GitHub](https://github.com/Navjotkaur-22)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/navjot-kaur-b61aab299/)  
+💬 [Upwork Profile – Navjot Kaur](https://www.upwork.com/freelancers/~01b30aa09d478b524c)
