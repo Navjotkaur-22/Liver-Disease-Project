@@ -93,7 +93,6 @@ This application enables users to:
 
 ## 🚀 How to Run Locally  
 
-```bash
 # Clone this repository
 git clone https://github.com/Navjotkaur-22/Liver-Disease-Project.git
 
@@ -105,11 +104,16 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 
-✨ Author
 
-👩🏻‍💻 Navjot Kaur
-MSc (IT) | Certified Data Scientist | Streamlit Developer
-📍 Jalandhar, Punjab
-📧 Email: nkaur4047@gmail.com
+## ✨ Author  
 
-<p align="center"> <a href="https://github.com/Navjotkaur-22" target="_blank"><img src="https://img.shields.io/badge/GitHub-Navjotkaur--22-black?logo=github&style=for-the-badge"/></a> <a href="https://www.linkedin.com/in/navjot-kaur-b61aab299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Navjot_Kaur-blue?logo=linkedin&style=for-the-badge"/></a> <a href="https://www.upwork.com/freelancers/~01b30aa09d478b524c" target="_blank"><img src="https://img.shields.io/badge/Upwork-Hire_Me-brightgreen?logo=upwork&style=for-the-badge"/></a> </p> ```
+👩🏻‍💻 **Navjot Kaur**  
+MSc (IT) | Certified Data Scientist | Streamlit Developer  
+📍 Jalandhar, Punjab  
+📧 **Email:** nkaur4047@gmail.com  
+
+<p align="center">
+<a href="https://github.com/Navjotkaur-22" target="_blank"><img src="https://img.shields.io/badge/GitHub-Navjotkaur--22-black?logo=github&style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/navjot-kaur-b61aab299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Navjot_Kaur-blue?logo=linkedin&style=for-the-badge"/></a>
+<a href="https://www.upwork.com/freelancers/~01b30aa09d478b524c" target="_blank"><img src="https://img.shields.io/badge/Upwork-Hire_Me-brightgreen?logo=upwork&style=for-the-badge"/></a>
+</p>
